@@ -132,7 +132,6 @@
 ## 联系 · Contact
 
 - **GitHub** — [@alicefw1](https://github.com/alicefw1)
-- **University** — [西安石油大学](https://www.xsyu.edu.cn/)
 
 <p align="center">
   <sub>如果你对网络工程、全栈开发或交互式可视化感兴趣，欢迎在 GitHub 上交流。</sub><br/>
