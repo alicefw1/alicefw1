@@ -1,0 +1,16 @@
+{
+  "git.autofetch": true,
+  "git.autofetchPeriod": 60,
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "git.postCommitCommand": "push",
+  "emeraldwalk.runonsave": {
+    "commands": [
+      {
+        "match": ".*",
+        "isAsync": true,
+        "cmd": "powershell -NoProfile -ExecutionPolicy Bypass -File \"${workspaceFolder}\\tools\\auto_sync.ps1\""
+      }
+    ]
+  }
+}
